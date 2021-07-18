@@ -1,0 +1,9 @@
+Truong_Dai_hoc_Bach_Khoa_Ha_Noi
+100
+5 Roland300 MayRaiDay Minbauwer 091MHSX T255MHSX
+1626624000
+
+Cong_ty_co_phan_ABC
+200
+5 Roland300 MayRaiDay Minbauwer2 092MHSX T255MHSX
+1602720005

@@ -1,0 +1,25 @@
+- Data may
+	+ Ten loai may
+	+ So may trong he thong 
+	+ Nang suat cua may (so the / gio)
+	+ So dien moi gio
+	+ So nhan cong can de hoat dong
+	+ So luong may (goi la n)
+	+ n dong tiep theo moi dong co cau truc:
+		* phan tu dau tien la so cac gio ma may da ban (goi la n_t)
+		* n_t phan tu tiep theo la cac gio ma may dang ban
+- Data don hang
+	+ Dong dau tien la so don hang
+	+ Dong thu 2 la so the dat hang
+	+ Dong thu 3 co cau truc:
+		* phan tu dau tien la so cac cong doan (ten may) can phai di qua (goi la n)
+		* n phan tu tiep theo la cac cong doan (ten may) can phai lam lan luot
+- cost time
+	+ Dong thu nhat la 24 * 7 phan tu ung voi gia dien o moi gio trong tuan
+	+ Dong thu hai la 24 * 7 phan tu ung voi gia nhan cong o moi gio trong tuan
+
+==Cac buoc tuong tac==
+B1: Tao cac file input
+B2: Goi gen.exe va truyen ten file input vao: costTime Data_may Data_donhang xyzt
+B3: Tao file chinh sua theo dinh dang nhu file xyzt
+B4: Goi cost.exe xyzt outputFileName
